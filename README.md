@@ -77,6 +77,30 @@ All year-over-year comparisons use full calendar year 2024 vs full calendar year
 
 ---
 
+## Recommendations
+
+**For Uber**
+
+**Introduce zone-specific driver incentives during off-peak hours:** The data shows Uber only grew between 6 and 11AM — the rest of the day, drivers are routing around the zone. A targeted per-trip bonus for Manhattan dropoffs outside of rush hour would directly address the supply gap that is costing Uber daytime volume. The bonus does not need to be large. At $1.50 per trip, even a $0.50 driver supplement on off-peak zone trips would likely move the needle on driver willingness to serve the zone.
+
+**Audit Brooklyn pricing transparency:** Uber lost trips in Brooklyn despite it sitting outside the fee boundary. The most likely cause is riders seeing unpredictable fare estimates on cross-borough trips and switching to Lyft. A clear upfront breakdown of when and why the congestion fee applies would reduce fare shock and likely recover some of that volume without changing the underlying pricing.
+
+**Reconsider the driver pay cut in the zone as a long-term strategy:** Net revenue held up in 2025, but market share did not. If Lyft continues gaining zone drivers and riders at the current rate, Uber's revenue advantage will shrink as volume shifts. The margin gain from cutting driver pay in the zone is finite. The market share loss could compound.
+
+**For Lyft**
+
+**Double down on the Bronx:** Lyft grew pickups there by 20.7% while Uber managed 2.1%. That gap suggests strong organic momentum. Targeted driver recruitment and rider promotions in the Bronx could lock in that advantage before Uber responds.
+
+**Investigate Staten Island underperformance:** It is the one borough where Lyft struggled on both pickups and dropoffs while Uber held positive ground. Understanding whether this is a supply problem, a brand awareness problem, or a market structure problem would tell Lyft whether Staten Island is worth investing in or deprioritizing.
+
+**Protect the driver pay advantage as volume scales:** The current strategy is working because drivers trust that Lyft zone trips are worth their time. As trip volume grows, maintaining that pay ratio will require active management. If driver pay growth slows relative to revenue growth, the supply advantage that drove 2025 performance will erode.
+
+**For Policy Makers**
+
+**Monitor driver earnings in the congestion zone by platform:** The data shows one major platform cut driver pay while growing revenue after the fee launched. If that pattern continues or spreads, it could reduce driver supply in the zone over time, making reliable rideshare harder to access for the riders who depend on it most. Publishing quarterly driver earnings benchmarks by zone would create accountability without requiring regulatory intervention.
+
+**Study the Brooklyn spillover:** Rideshare trips declined in a borough that does not pay the congestion fee. If the fee is suppressing demand in adjacent areas, the traffic reduction benefit may be partially offset by increased personal vehicle use in those neighborhoods. That tradeoff deserves a dedicated study before the fee structure is expanded or made permanent.
+
 ## Three Part Series
 
 This is the third and final part of a three-part analysis of NYC congestion pricing's impact on rideshare.
