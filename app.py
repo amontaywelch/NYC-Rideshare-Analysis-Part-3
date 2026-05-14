@@ -775,6 +775,7 @@ elif page == "Methodology":
     "View the full series on GitHub: "
     "[Part 1: Quasi-Experimental Analysis](https://github.com/amontaywelch/NYC_Congestion_Quasi_Analysis) "
     "| [Part 2: Full Year YoY Analysis](https://github.com/amontaywelch/NYC-Rideshare-Analysis-Part-2) "
+    "| [Part 3: Uber vs Lyft Competitive Breakdown](https://nyc-rideshare-analysis-part-3-fjsstencltzb5myc4py9z5.streamlit.app/). "
     "| Built with BigQuery, Python, and Streamlit.",
     unsafe_allow_html=True
 )
