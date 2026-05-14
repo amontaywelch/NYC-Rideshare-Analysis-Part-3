@@ -1,4 +1,4 @@
-# NYC Congestion Pricing: Uber vs Lyft — Part 3
+# NYC Congestion Pricing: Uber vs Lyft: Part 3
 
 **Part 3 of 3** in the NYC Congestion Pricing Impact Analysis Series
 
@@ -27,6 +27,8 @@ Companies are identified via the `hvfhs_license_num` field. HV0003 is Uber, HV00
 ---
 
 ## Key Findings
+
+![Company Trip Volume Growth](nyc-part-3-trip-growth.png)
 
 **Lyft captured the congestion zone while Uber retreated.**
 Uber's Manhattan dropoffs fell 9% year over year. Lyft's grew 10%. That is a 20-point swing in the same market, under the same $1.50 fee, in the same year.
