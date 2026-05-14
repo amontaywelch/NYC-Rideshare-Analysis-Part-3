@@ -83,7 +83,7 @@ All year-over-year comparisons use full calendar year 2024 vs full calendar year
 
 **#For Uber**
 
-**Introduce zone-specific driver incentives during off-peak hours:** The data shows Uber only grew between 6 and 11AM — the rest of the day, drivers are routing around the zone. A targeted per-trip bonus for Manhattan dropoffs outside of rush hour would directly address the supply gap that is costing Uber daytime volume. The bonus does not need to be large. At $1.50 per trip, even a $0.50 driver supplement on off-peak zone trips would likely move the needle on driver willingness to serve the zone.
+**Introduce zone-specific driver incentives during off-peak hours:** The data shows Uber only grew between 6 and 11AM: the rest of the day, drivers are routing around the zone. A targeted per-trip bonus for Manhattan dropoffs outside of rush hour would directly address the supply gap that is costing Uber daytime volume. The bonus does not need to be large. At $1.50 per trip, even a $0.50 driver supplement on off-peak zone trips would likely move the needle on driver willingness to serve the zone.
 
 **Audit Brooklyn pricing transparency:** Uber lost trips in Brooklyn despite it sitting outside the fee boundary. The most likely cause is riders seeing unpredictable fare estimates on cross-borough trips and switching to Lyft. A clear upfront breakdown of when and why the congestion fee applies would reduce fare shock and likely recover some of that volume without changing the underlying pricing.
 
